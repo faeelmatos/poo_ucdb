@@ -16,7 +16,8 @@ public class Calculadora {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Calculadora bem produtiva: ");
+        System.out.println("Calculadora bem produtiva.");
+        System.out.println("Outra linha.");
     }
     
 }
