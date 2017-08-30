@@ -18,6 +18,7 @@ public class Calculadora {
         // TODO code application logic here
         System.out.println("Calculadora bem produtiva.");
         System.out.println("Outra linha.");
+        System.out.println("Imitando o Pedro.");
     }
     
 }
