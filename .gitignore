@@ -23,6 +23,5 @@ hs_err_pid*
 
 /dist/
 /target/
-/nbproject/
 /build/
 build.xml
